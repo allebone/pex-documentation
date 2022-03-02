@@ -1,0 +1,41 @@
+bryan.allebone:
+  name: Bryan Allebone
+  title: Major, NEANG
+  url: https://github.com/allebone
+  image_url: ./authors/allebone_headshot.png
+  status: active
+
+nicholas.hill:
+  name: Nicholas Hill
+  title: Contractor, Leidos
+  url: ./
+  image_url: ./authors/nick.hill.jpeg
+  status: active
+
+bentley.fanslow:
+  name: Bentley Fanslow
+  title: Master Sergeant, USAF
+  url: ./
+  image_url: ./authors/bentley.fanslow.jpeg
+  status: active
+
+gibeon.trott:
+  name: Gibeon Trott
+  title: Technical Sergeant, USAF
+  url: ./
+  image_url: ./authors/gibeon.trott.jpeg
+  status: active
+  
+rich.moyle:
+  name: Rich Moyle
+  title: Contractor, Leidos
+  url: ./
+  image_url: ./authors/rich.moyle.jpeg
+  status: active
+  
+jj:
+  name: JJ Schroeder
+  title: Contractor, Leidos
+  url: https://sebastienlorber.com
+  image_url: https://github.com/slorber.png
+  status: archive

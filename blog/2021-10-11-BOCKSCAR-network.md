@@ -4,7 +4,7 @@ title: BOCKSCAR Network
 authors: [bryan.allebone]
 tags: []
 status: Re-assess
-abstract: The BOCKSCAR Network is a Commercially-Enabled Worldwide Operations Network, with EDGE COmputing, Device Security, and a Reduced Digital Presence/Footprint.
+abstract: The BOCKSCAR Network is a Commercially-Enabled Worldwide Operations Network, with EDGE Computing, Device Security, and a Reduced Digital Presence/Footprint.
 ---
 
 ---
